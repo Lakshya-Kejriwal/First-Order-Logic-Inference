@@ -1,0 +1,8 @@
+1
+A(Bob)
+2
+(A(x)|((~B(x))|(~C(x))))
+(B(Bob)|C(Bob))
+
+Answer
+False

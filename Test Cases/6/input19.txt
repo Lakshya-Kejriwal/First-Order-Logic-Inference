@@ -1,0 +1,4 @@
+1
+Man(A)
+1
+Man(B) | Man(y)

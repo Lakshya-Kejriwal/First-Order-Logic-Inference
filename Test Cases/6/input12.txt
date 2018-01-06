@@ -1,0 +1,11 @@
+2
+Mortal(Socretes)
+~Mortal(Aristotle)
+3
+(Man(x) => Mortal(x))
+Man(Socretes)
+Man(Aristotle)
+
+Answer
+True
+False

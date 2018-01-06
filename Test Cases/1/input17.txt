@@ -1,0 +1,5 @@
+1
+B(Ada)
+2
+A(x,x)
+~A(Alice, Casey) | B(Ada)

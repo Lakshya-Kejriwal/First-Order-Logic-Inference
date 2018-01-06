@@ -1,0 +1,12 @@
+1
+Kills(Curiosity,Tuna)
+9
+Dog(D)
+Owns(Jack,D)
+~Dog(y) | ~Owns(x,y) | AnimalLover(x)
+AnimalLover(x)
+Animal(y)
+Kills(x,y)
+Kills(Jack, Tuna) | Kills(Curiosity, Tuna)
+Cat(Tuna)
+~Cat(x) | Animal(x)

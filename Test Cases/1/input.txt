@@ -1,0 +1,13 @@
+3
+~Friend(Tom,Jerry)
+~Friend(Jerry,Tom)
+Friend(Doge,Jerry)
+8
+Mouse(Shuke)
+Mouse(Beita)
+Mouse(Jerry)
+Cat(Tom)
+Dog(Doge)
+~Mouse(x) | ~Mouse(y) | Friend(x,y)
+~Cat(x) | ~Mouse(y) | ~Friend(x,y)
+~Mouse(z) | ~Cat(y) | ~Dog(x) | ~Friend(y,z) | Friend(x,z)
